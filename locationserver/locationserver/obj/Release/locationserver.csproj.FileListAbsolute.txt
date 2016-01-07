@@ -1,0 +1,6 @@
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Release\locationserver.exe.config
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Release\locationserver.exe
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Release\locationserver.pdb
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Release\locationserver.csprojResolveAssemblyReference.cache
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Release\locationserver.exe
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Release\locationserver.pdb

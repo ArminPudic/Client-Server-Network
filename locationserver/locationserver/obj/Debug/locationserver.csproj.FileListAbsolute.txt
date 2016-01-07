@@ -1,0 +1,63 @@
+G:\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\Armzin\Documents\University Work\Year 2 (Diploma)\Semester 2\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Armzin\Documents\University Work\Year 2 (Diploma)\Semester 2\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\Armzin\Documents\University Work\Year 2 (Diploma)\Semester 2\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+Z:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+Z:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+Z:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+E:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+E:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+D:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+D:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+D:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+D:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+D:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+D:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+F:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+F:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+F:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+F:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+F:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+F:\Uni Work\Networking and Games Architecture\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.exe
+E:\Documents\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.pdb
+F:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.exe.config
+F:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.exe
+F:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.pdb
+F:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.exe
+F:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.pdb
+F:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+E:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.exe
+E:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\bin\Debug\locationserver.pdb
+E:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+E:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\Uni Work\Networking and Games Architecture\Submission\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\Documents\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\Documents\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\Documents\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.pdb
+D:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.exe.config
+D:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.exe
+D:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.pdb
+D:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.exe
+D:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.pdb
+D:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+E:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.exe.config
+E:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.exe
+E:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.pdb
+E:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.exe
+E:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\bin\Debug\locationserver.pdb
+E:\Uni Work\Networking and Games Architecture\08241 ACW Part 1\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache

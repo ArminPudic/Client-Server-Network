@@ -1,0 +1,5 @@
+G:\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\08241 ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\08241 ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
